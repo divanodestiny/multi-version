@@ -3,5 +3,5 @@ package multi_version
 import "fmt"
 
 func PrintVersion() {
-	fmt.Println("v2")
+	fmt.Println("v3")
 }
